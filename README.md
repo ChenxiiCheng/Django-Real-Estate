@@ -6,19 +6,19 @@
 
 **Preview | 预览**
 
-![image-20191114164705206](/Users/chenxi/xii/LOGO/real_estate_img/1.png)
+![image-20191114164705206](./readme_imgs/1.png)
 
 
 
-![image-20191114164758305](/Users/chenxi/xii/LOGO/real_estate_img/2.png)
+![image-20191114164758305](./readme_imgs/2.png)
 
 
 
-![image-20191114164840055](/Users/chenxi/xii/LOGO/real_estate_img/3.png)
+![image-20191114164840055](./readme_imgs/3.png)
 
 
 
-![image-20191114165600463](/Users/chenxi/xii/LOGO/real_estate_img/4.png)
+![image-20191114165600463](./readme_imgs/4.png)
 
 
 
