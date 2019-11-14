@@ -151,3 +151,8 @@ EMAIL_HOST_PASSWORD = 'wazbhnomqrtebida'
 EMAIL_SUBJECT_PREFIX = u'[Sercheif]'
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = '121700587@qq.com'
+
+try:
+    from .local_settings import *
+except ImportError:
+    pass
